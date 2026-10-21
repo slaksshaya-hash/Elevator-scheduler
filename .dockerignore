@@ -1,0 +1,3 @@
+*.class
+*_backup.java
+.DS_Store
